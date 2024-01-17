@@ -1,4 +1,4 @@
-# Installing ruby on an M2 Mac with Venture
+# Installing ruby on an M2 Mac with Ventura
 
 Any system that uses `ruby-build` will run into issues if you are installing an older EOLed version of ruby (ex: 2.6.10)
 
